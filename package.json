@@ -1,0 +1,25 @@
+{
+  "name": "hyperfull",
+  "version": "1.0.0",
+  "description": "Allows you to open hyperterm in fullscreen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonmeusel/hyperfull.git"
+  },
+  "keywords": [
+    "Fullscreen",
+    "Hyperterm",
+    "Terminal",
+    "Plugin"
+  ],
+  "author": "Simon Meusel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonmeusel/hyperfull/issues"
+  },
+  "homepage": "https://github.com/simonmeusel/hyperfull#readme"
+}
