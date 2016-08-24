@@ -1,4 +1,6 @@
 # hyperfull
+[![Dependency Status](https://david-dm.org/simonmeusel/hyperfull.svg)](https://david-dm.org/simonmeusel/hyperfull)
+
 Allows you to open hyperterm in fullscreen.
 
 ## Installation
