@@ -1,5 +1,5 @@
-# hyperfull
-[![Dependency Status](https://david-dm.org/simonmeusel/hyperfull.svg)](https://david-dm.org/simonmeusel/hyperfull)
+# hyperterm-fullscreen
+[![Dependency Status](https://david-dm.org/simonmeusel/hyperterm-fullscreen.svg)](https://david-dm.org/simonmeusel/hyperterm-fullscreen)
 
 Allows you to open hyperterm in fullscreen.
 
